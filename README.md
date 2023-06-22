@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 	<br>
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chae-dahee&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=chae-dahee&show_icons=true">
-
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chae-dahee&layout=compact&theme=radical"><br>
+</div>
