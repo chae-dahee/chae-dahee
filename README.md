@@ -4,7 +4,13 @@
 **chae-dahee/chae-dahee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Slice&fontSize=90" />
+<br>
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chae-dahee&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=chae-dahee&show_icons=true">
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
