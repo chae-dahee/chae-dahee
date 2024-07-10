@@ -21,12 +21,18 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<br />
+	<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+   	<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white" />
+<br>
+	<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+	<p />
 </div>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
@@ -37,21 +43,29 @@ Here are some ideas to get you started:
 	<br>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <br>
+  	<img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+   	<img src="https://img.shields.io/badge/FireBase-DD2C00?style=flat&logo=firebase&logoColor=white" />
+   	<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+	
 </div>
 <br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-<!-- 	<a href="https://yermi.co.kr">
+<!-- 	<a href="https://chae-dahee.github.io/">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="https://yermi.tistory.com">
+	</a> -->
+	<a href="https://datdaradanadat.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+	<a href="https://equal-canoe-62c.notion.site/c5e8570222f44e30b4a262e3c04d2818?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a> -->
+	</a>
 	<br>
 </div>
 <br>
