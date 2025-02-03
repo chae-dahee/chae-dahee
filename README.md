@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
+	<p/>
 </div>
 <div>
 	<p>🎨 SNS & Portfolio 🎨</p>
@@ -80,7 +81,7 @@ Here are some ideas to get you started:
 	<a href="https://equal-canoe-62c.notion.site/c5e8570222f44e30b4a262e3c04d2818?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
-	<br>
+	<p/>
 </div>
 <br>
 <div>
