@@ -32,6 +32,18 @@ Here are some ideas to get you started:
 </div>
 <div>
 	<h3>📚 Tech Stack 📚</h3>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div>
+	<a href="https://datdaradanadat.tistory.com/">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Blogger&logoColor=white" />
+	</a>
+	<a href="https://equal-canoe-62c.notion.site/Chae-Dahee-c930ab0bfa9249ed85182a89687aaabb?pvs=4">
+		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+	</a>
+	<p/>
+</div>
+<div>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div>
@@ -70,18 +82,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
-	<p/>
-</div>
-<div>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div>
-	<a href="https://datdaradanadat.tistory.com/">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Blogger&logoColor=white" />
-	</a>
-	<a href="https://equal-canoe-62c.notion.site/c5e8570222f44e30b4a262e3c04d2818?pvs=4">
-		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-	</a>
 	<p/>
 </div>
 <br>
